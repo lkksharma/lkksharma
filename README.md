@@ -12,6 +12,9 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
 </div>
 </details>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/lkksharma?theme=dark&font=Karma&ext=heatmap)
+
 <!--
 **lkksharma/lkksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
