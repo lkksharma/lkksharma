@@ -13,11 +13,11 @@
 </div>
 </details>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/lkksharma?theme=dark&font=Karma&ext=heatmap)
+
 
 <!--
 **lkksharma/lkksharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ for leetcode ![LeetCode Stats](https://leetcard.jacoblin.cool/lkksharma?theme=dark&font=Karma&ext=heatmap)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
