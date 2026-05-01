@@ -24,7 +24,7 @@ Undergrad in Computer Engineering at **Thapar Institute of Engineering & Technol
 
 **Structured & temporal data** — graphs, time-series, brain signals. The kind of data where your choice of architecture is already a scientific claim.
 
-**Agents & systems** — less interested in models that score well on benchmarks, more interested in systems that actually do things end-to-end.
+**Agents & systems** — equally interested in models that score well on benchmarks and systems that actually do things end-to-end.
 
 ---
 
